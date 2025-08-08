@@ -1,0 +1,70 @@
+[
+  {
+    "id": "boa-altar-01",
+    "title": "Boa – Throne",
+    "slug": "boa-altar-01",
+    "category": "One Piece",
+    "thumb": "/images/boa-altar-01.webp",
+    "featured": true,
+    "tags": [
+      "dominance",
+      "heels"
+    ],
+    "date": "2025-08-06",
+    "links": {
+      "deviantart": "https://example.com",
+      "patreon": "https://example.com"
+    }
+  },
+  {
+    "id": "sakura-discipline-02",
+    "title": "Sakura – Discipline",
+    "slug": "sakura-discipline-02",
+    "category": "Naruto",
+    "thumb": "/images/sakura-discipline-02.webp",
+    "featured": false,
+    "tags": [
+      "stockings",
+      "office"
+    ],
+    "date": "2025-08-03",
+    "links": {
+      "deviantart": "",
+      "patreon": ""
+    }
+  },
+  {
+    "id": "robin-library-03",
+    "title": "Robin – Archives",
+    "slug": "robin-library-03",
+    "category": "One Piece",
+    "thumb": "/images/robin-library-03.webp",
+    "featured": true,
+    "tags": [
+      "library",
+      "glasses"
+    ],
+    "date": "2025-08-02",
+    "links": {
+      "deviantart": "",
+      "patreon": ""
+    }
+  },
+  {
+    "id": "bulma-lab-01",
+    "title": "Bulma – Lab Shift",
+    "slug": "bulma-lab-01",
+    "category": "Dragon Ball",
+    "thumb": "/images/bulma-lab-01.webp",
+    "featured": false,
+    "tags": [
+      "lab",
+      "tech"
+    ],
+    "date": "2025-07-31",
+    "links": {
+      "deviantart": "",
+      "patreon": ""
+    }
+  }
+]
